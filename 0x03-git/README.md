@@ -1,1 +1,1 @@
-My first readme
+this is the first web directory for git in the zero project
